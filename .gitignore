@@ -1,0 +1,5 @@
+# Project exclude paths
+/nacos-consumer/target/
+/privsca-nacos-provider/target/
+/sca-nacos-config/target/
+/sca-nacos-getway/target/
